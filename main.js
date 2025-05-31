@@ -32,14 +32,14 @@
 
 // task
 
-let favFood = "Pizza";
-let favColor = "Red";
-let favDrink = "Lemonade";
+// let favFood = "Pizza";
+// let favColor = "Red";
+// let favDrink = "Lemonade";
 
-console.log(favDrink); 
+// console.log(favDrink); 
 
-favFood = "Pasta";
-console.log(favFood); 
+// favFood = "Pasta";
+// console.log(favFood); 
 
-let myBirthday = "2004-08-07"; 
-console.log(myBirthday); 
+// let myBirthday = "2004-08-07"; 
+// console.log(myBirthday); 
