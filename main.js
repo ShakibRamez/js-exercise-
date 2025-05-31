@@ -21,3 +21,10 @@
 // let myName = "ahmad";
 // myName = "shakib";
 // console.log(myName);
+
+
+// 2.const 
+
+const myPlanet = "earth";
+console.log(myPlanet);
+myPlanet = "jupiter";
