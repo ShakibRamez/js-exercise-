@@ -26,4 +26,17 @@ let age = 25;
 */
 
 
+// 6.jsdoc
+/**
+ * sum two numbers 
+ * @param {number} a - first number
+ * @param {number} b - second number
+ * @returns {number} sum of a and b
+ */
+function sum(a, b) {
+  return a + b;
+}
+
+console.log(sum(3, 4)); // 7
+
 
